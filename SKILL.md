@@ -1,6 +1,6 @@
 ---
-name: stop-before-code
-description: The "Stop-and-Think" Product Brain for AI Coding Agents. Enforces a physical kill-switch on coding tools until requirements, product form, edge experience, and a single-page spec are fully shaped and approved. Grounded in Basecamp's Shape Up, Marty Cagan's Inspired, and Amazon's Working Backwards.
+name: SBC:Stop before code
+description: SBC:Stop before code（停止盲目编码/产品经理守门人）。用户说「SBC」「Stop before code」「SBC:Stop before code」「理清需求」「做产品」「严禁直接写代码」「先定型再写代码」「产品经理守门人」时调用。在定型产品的灵魂之前，严禁写一行代码。强制执行物理级代码截断锁，直到需求澄清、形态定义、做完减法并签署一页纸契约。基于 Basecamp Shape Up、Marty Cagan Inspired 与亚马逊逆向工作法。
 ---
 
 # Stop Before Code (SBC) · 产品级防冲动思考与契约守门人
