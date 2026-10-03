@@ -10,6 +10,10 @@
 [![Methodology](https://img.shields.io/badge/Methodology-Shape%20Up%20%2B%20Inspired-success)](#-the-philosophy-behind-sbc)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Koaaa-sysu/stop-before-code/pulls)
 
+<p align="center">
+  <a href="README.md"><b>English</b></a> | <a href="README_CN.md"><b>简体中文</b></a>
+</p>
+
 </div>
 
 ---
