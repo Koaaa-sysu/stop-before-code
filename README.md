@@ -158,6 +158,14 @@ We believe product discipline is the single most valuable skill in the age of au
 - Star this repo if it saved you from AI code bloat! ⭐
 - PRs for additional agent adapters (Devin, Roo Code, Aider, OpenHands) are warmly welcome.
 
+## 👥 Authors & Pair Programming
+
+This project was conceived and architected through human-AI pair programming:
+- **Minghao Lin** ([@Koaaa-sysu](https://github.com/Koaaa-sysu)) — Creator & Lead Architect
+- **Antigravity** (Google DeepMind) — AI Pair Programmer & Co-Designer
+
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) for full contributor details.
+
 ---
 
 ## 📜 License
