@@ -37,13 +37,9 @@ Yet, every developer has lived through this nightmare:
 3. 20 minutes later, you are staring at 30 compiler errors, broken dependencies, and context explosion.
 4. **You wanted a bicycle; the AI attempted to build a spaceship and crashed in your living room.**
 
-```text
-❌ WITHOUT SBC (The Code-First Disaster):
-Vague Idea ────► AI generates 1,500 lines of unvetted code ────► 30 Errors ────► Context Blown ────► Rage Rollback
-
-✅ WITH SBC (Shaping Before Building):
-Vague Idea ────► [🛑 Physical Code Lock] ────► Socratic 3-Grill ────► ASCII Wireframe ────► 1-Page Spec ────► Clean 1-Shot Win
-```
+<p align="center">
+  <img src="assets/comparison.jpg" alt="Without SBC vs With SBC Comic" width="100%" style="border-radius: 8px;" />
+</p>
 
 **Stop Before Code (SBC)** is an agent skill that enforces a **strict physical kill-switch** on all coding tools until your idea has been shaped, prioritized, and locked down into an executable single-page specification.
 
@@ -72,30 +68,10 @@ Whenever you mention an idea or request, SBC intercepts the agent through a rigo
   <img src="assets/workflow-infographic.jpg" alt="Stop Before Code 4-Step State Machine" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
 </p>
 
-```text
-[Your Raw Idea]
-      │
-      ▼
-┌────────────────────────────────────────────────────────┐
-│ Phase 1: Working Backwards (逆向产品宣言)               │
-│ - Who is this for? What pain does it kill? What form?  │
-├────────────────────────────────────────────────────────┤
-│ Phase 2: Socratic 3-Shaping (灵魂三问 · 必须是选择题)     │
-│ 1. Appetite & Minimal Form (胃口与交付形态)             │
-│ 2. Anti-Scope List (果断砍掉 3 个伪需求)                 │
-│ 3. Cold Start & Adaptive Edge (自适应冷启动与容错体验)    │
-├────────────────────────────────────────────────────────┤
-│ Phase 3: Fat-Marker Prototype (终端 ASCII 粗笔草图)     │
-│ - Instant visual confirmation right in your terminal   │
-├────────────────────────────────────────────────────────┤
-│ Phase 4: Pitch & Contract Signing (一页纸契约 .spec.md) │
-│ - Definition of Done (DoD) & verification commands     │
-└────────────────────────────────────────────────────────┘
-      │
-      │ 🛑 [WAITING FOR USER: "CONFIRM" or "确认"]
-      ▼
-[Phase 5: Code Lock Released · Flawless 1-Shot Execution]
-```
+1. **Phase 1: Working Backwards** — Write a 2-sentence release manifesto defining target context, human value, and minimal delivery form.
+2. **Phase 2: Socratic 3-Shaping** — Ask strictly 3 multiple-choice questions (Appetite & Form, Anti-Scope 3 cuts, Adaptive cold-start/edge experience).
+3. **Phase 3: Fat-Marker Prototype** — Render an instant low-fi terminal layout to visually lock down UI affordances.
+4. **Phase 4: Pitch & Contract Signing** — Generate `.product-spec.md` with explicit Definition of Done (DoD). Wait for your `CONFIRM` or `确认` to unlock physical coding tools!
 
 ---
 
