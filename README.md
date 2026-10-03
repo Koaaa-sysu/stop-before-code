@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Supported Agents](https://img.shields.io/badge/Agents-Claude%20Code%20%7C%20Cursor%20%7C%20Antigravity%20%7C%20Windsurf-orange)](#-multi-agent-setup)
 [![Methodology](https://img.shields.io/badge/Methodology-Shape%20Up%20%2B%20Inspired-success)](#-the-philosophy-behind-sbc)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/your-username/stop-before-code/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Koaaa-sysu/stop-before-code/pulls)
 
 </div>
 
@@ -110,7 +110,7 @@ cp adapters/CLAUDE.md ./CLAUDE.md
 ### Option 2: Cursor / Windsurf
 Copy `adapters/.cursorrules` directly to your repository root:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/your-username/stop-before-code/main/adapters/.cursorrules -o .cursorrules
+curl -fsSL https://raw.githubusercontent.com/Koaaa-sysu/stop-before-code/main/adapters/.cursorrules -o .cursorrules
 ```
 
 ### Option 3: Antigravity / Gemini Agents
