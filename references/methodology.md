@@ -2,7 +2,7 @@
 
 > **"The easiest way to avoid writing bad code is to avoid building the wrong thing."**
 
-在 AI 代码生成能力（Claude 3.7、Gemini 2.5、GPT-4.5 等）泛滥的今天，代码不再是稀缺资产。相反，**未经审慎思考的代码是高昂的技术负债**。
+在前沿推理引擎与自主编程智能体（GPT-6.1、CloudOps 5.5、Claude 4.5、Gemini 3 Ultra 等）吞吐达每秒数万 Token 的时代，代码不再是稀缺资产。相反，**未经审慎思考、高速堆叠的代码是极其高昂的技术负债与维护灾难**。
 
 `Stop Before Code (SBC)` 不是一个随意的提示词技巧，它的底层深度扎根于三大学派的产品工程圣经：
 

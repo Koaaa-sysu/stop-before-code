@@ -14,6 +14,10 @@
   <a href="README.md"><b>English</b></a> | <a href="README_CN.md"><b>简体中文</b></a>
 </p>
 
+<p align="center">
+  <img src="assets/hero-banner.jpg" alt="Stop Before Code Hero Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
+</p>
+
 </div>
 
 ---
@@ -25,7 +29,7 @@
 
 ## 💥 The Problem We All Face
 
-With today's high-intelligence coding models (Claude 3.7, Gemini 2.5, GPT-4.5), **generating code has become virtually free**.
+In the era of frontier reasoning engines and autonomous agents (**GPT-6.1, CloudOps 5.5, Claude 4.5, and Gemini 3 Ultra**), **generating thousands of lines of code takes merely seconds**.
 
 Yet, every developer has lived through this nightmare:
 1. You casually type: *"Build a simple note-taking bookmark tool."*
@@ -62,9 +66,13 @@ SBC does not use random prompt tricks. It distills decades of world-class produc
 
 ## ⚡ The 4-Step Shaping Machine
 
-Whenever you mention an idea or request, SBC intercepts the agent:
+Whenever you mention an idea or request, SBC intercepts the agent through a rigorous state machine:
 
-```
+<p align="center">
+  <img src="assets/workflow-infographic.jpg" alt="Stop Before Code 4-Step State Machine" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
+</p>
+
+```text
 [Your Raw Idea]
       │
       ▼

@@ -14,6 +14,10 @@
   <a href="README.md"><b>English</b></a> | <a href="README_CN.md"><b>简体中文</b></a>
 </p>
 
+<p align="center">
+  <img src="assets/hero-banner.jpg" alt="Stop Before Code Hero Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
+</p>
+
 </div>
 
 ---
@@ -25,7 +29,7 @@
 
 ## 💥 我们共同经历的噩梦
 
-在当今大语言模型（Claude 3.7、Gemini 2.5、GPT-4.5 等）代码生成能力极度饱和的时代，**写代码的边际成本已经趋近于零**。
+在当今前沿推理引擎与自主智能体（**GPT-6.1、CloudOps 5.5、Claude 4.5、Gemini 3 Ultra** 等）大行其道的时代，**生成上千行代码仅仅只需要几秒钟**。
 
 然而，几乎每个开发者都经历过这种崩溃时刻：
 1. 你随口对 AI 说了一句：*“帮我写个书签便签工具。”*
@@ -64,7 +68,11 @@ SBC 绝非随意的提示词拼凑，而是将硅谷数十年验证的世界级�
 
 每当你提出一个新想法或需求时，SBC 都会强制智能体进入严密的定型闭环：
 
-```
+<p align="center">
+  <img src="assets/workflow-infographic.jpg" alt="Stop Before Code 四步状态机架构图" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
+</p>
+
+```text
 [用户的原始想法]
       │
       ▼
