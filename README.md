@@ -166,6 +166,7 @@ We believe product discipline is the single most valuable skill in the age of au
 
 This project was conceived and architected through human-AI pair programming:
 - **Minghao Lin** ([@Koaaa-sysu](https://github.com/Koaaa-sysu)) — Creator & Lead Architect
+- **Claude** (Anthropic) — AI Pair Programmer & Spec Reviewer
 - **Antigravity** (Google DeepMind) — AI Pair Programmer & Co-Designer
 
 See [CONTRIBUTORS.md](CONTRIBUTORS.md) for full contributor details.

@@ -10,6 +10,10 @@
   - *Role*: AI Pair Programmer & Co-Designer
   - *Focus*: Methodology Distillation, State Machine Design, Multi-Agent Adapters
 
+- **Claude** (Anthropic)
+  - *Role*: AI Pair Programmer & Co-Author
+  - *Focus*: Product Engineering, Spec Verification
+
 ---
 
 We welcome all community contributions! See [README.md](README.md) for how to get involved.

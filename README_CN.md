@@ -159,6 +159,7 @@ cp SKILL.md references/ ~/.gemini/antigravity/skills/stop-before-code/
 
 本项目由人机结对协作（Human-AI Pair Programming）共同构思与架构：
 - **Minghao Lin** ([@Koaaa-sysu](https://github.com/Koaaa-sysu)) — 项目发起人与主架构师
+- **Claude** (Anthropic) — AI 结对编程伙伴与规格评审
 - **Antigravity** (Google DeepMind) — AI 结对编程伙伴与联合设计者
 
 详见 [CONTRIBUTORS.md](CONTRIBUTORS.md)。
